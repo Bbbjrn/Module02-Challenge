@@ -224,6 +224,11 @@ main {
   color: var(--secondary);
 }
 
+footer {
+  display: flex;
+  justify-content: center;
+}
+
 /* portfolio project images */
 /* TODO: Add portfolio project images here*/
 
@@ -240,10 +245,10 @@ main {
     width: 100%;
   }
 
-  
+
 }
 
-@media (max-width: 768px;) {
+@media (max-width: 768px) {
 
 }
 
