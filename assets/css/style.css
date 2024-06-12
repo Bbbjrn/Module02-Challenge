@@ -87,9 +87,7 @@ nav a:last-child {
 }
 
 main {
-  border-top: solid 12px;
-  border-color: var(--primary);
-  /*margin-top: ;*/
+  margin-top: 20px;
   margin-bottom: 45px;
 }
 
