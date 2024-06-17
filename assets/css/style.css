@@ -138,7 +138,7 @@ main {
 
 .hero-banner {
   background: #b0b0b0;
-  background-image: url("/Module02-Challenge/assets/css/images/40540014.JPG"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("/assets/css/images/40540014.JPG"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
@@ -234,15 +234,15 @@ main {
 
 /*portfolio images*/
 .app-01 {
-  background-image: url(/Module02-Challenge/assets/css/images/40540016.JPG);
+  background-image: url(/assets/css/images/40540016.JPG);
 }
 
 .app-02 {
-  background-image: url(/Module02-Challenge/assets/css/images/40540015.JPG);
+  background-image: url(/assets/css/images/40540015.JPG);
 }
 
 .app-03 {
-  background-image: url(/Module02-Challenge/assets/css/images/40540017.JPG);
+  background-image: url(/assets/css/images/40540017.JPG);
 }
 
 .flex-item:hover {
@@ -307,11 +307,42 @@ footer {
     width: 100%;
   }
 
+  .flex-container {
+    flex-direction: column;
+    align-items: center;
+  }
 
+  .flex-item {
+    flex-basis: 100%;
+    min-height: 200px;
+  }
 }
 
 @media (max-width: 768px) {
 
+    header h1 {
+      font-size: 5vw;
+  }
+
+  nav a {
+    font-size: 4vw;
+  }
+
+  .hero-banner h2 {
+    font-size: 2rem;
+  }
+
+  .page-section > h2 {
+    font-size: 5vw;
+  }
+
+  .flex-item {
+    min-height: 150px;
+  }
+
+  .avatar {
+    width: 150px;
+  }
 }
 
 /* TODO: add media query for a max-width of 768px */
