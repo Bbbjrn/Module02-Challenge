@@ -58,8 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 To ensure the portfolio is functioning correctly, verify the following:
 
 1. All links in the navigation scroll to the correct section.
-2. Clicking on application images directs you to the respective deployed applications.
-3. The layout adapts well to different screen sizes (desktop, tablet, mobile).
+2. The layout adapts well to different screen sizes (desktop, tablet, mobile).
 
 ---
 
