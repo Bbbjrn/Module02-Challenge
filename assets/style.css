@@ -138,7 +138,7 @@ main {
 
 .hero-banner {
   background: #b0b0b0;
-  background-image: url("/assets/images/40540014.png") , linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("/assets/images/40540014.png"); /*, linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);*/
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
