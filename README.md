@@ -27,10 +27,10 @@ To run this project locally, follow these steps:
 To use this portfolio, navigate through the sections using the header links. Each section will scroll smoothly to the corresponding content. Click on the application images to view the deployed applications.
 
 ### Screenshots
-![Homepage](/assets/css/images/Module02-Challenge-TitlePage.jpg)
-![About Section](/assets/css/images/Module02-Challenge-About.jpg)
-![Work Section](/assets/css/images/Module02-Challenge-Work.jpg)
-![Contact Section](/assets/css/images/Module02-Challenge-Contact.jpg)
+![Homepage](/assets/images/Module02-Challenge-TitlePage.jpg)
+![About Section](/assets/images/Module02-Challenge-About.jpg)
+![Work Section](/assets/images/Module02-Challenge-Work.jpg)
+![Contact Section](/assets/images/Module02-Challenge-Contact.jpg)
 
 ## Credits
 
