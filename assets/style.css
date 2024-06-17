@@ -234,15 +234,15 @@ main {
 
 /*portfolio images*/
 .app-01 {
-  background-image: url(assets/images/40540016.png);
+  background-image: url("../assets/images/40540016.png");
 }
 
 .app-02 {
-  background-image: url(assets/images/40540015.png);
+  background-image: url("../assets/images/40540015.png");
 }
 
 .app-03 {
-  background-image: url(assets/images/40540017.png);
+  background-image: url("../assets/images/40540017.png");
 }
 
 .flex-item:hover {
